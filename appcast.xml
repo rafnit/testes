@@ -1,14 +1,16 @@
-<rss>
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
   <channel>
+    <title>App Updates</title>
     <item>
-      <title>Versão 1.0.11</title>
-      <description>Novidades:\n- Correções de bugs\n- Novos recursos</description>
+      <title>Version 1.0.11</title>
+      <description>Novidades: Correções de bugs, melhorias de desempenho</description>
+      <pubDate>Wed, 24 Apr 2025 12:00:00 +0000</pubDate>
       <enclosure
         url="https://raw.githubusercontent.com/rafnit/testes/main/dev_1-0-11-update.apk"
         version="1.0.11"
         length="12345678"
-        type="application/vnd.android.package-archive"
-      />
+        type="application/vnd.android.package-archive" />
     </item>
   </channel>
 </rss>
