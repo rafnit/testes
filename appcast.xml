@@ -4,15 +4,12 @@
     <title>App Updates</title>
     <item>
       <title>Version 1.0.11</title>
-      <version>1.0.11</version>
-      <shortVersionString>1.0.11</shortVersionString>
       <description>Nova forma de verificação de atualização automática para o dispositivo</description>
       <pubDate>Wed, 24 Apr 2025 17:00:00 +0000</pubDate>
       <enclosure
         url="https://raw.githubusercontent.com/rafnit/testes/main/dev_1-0-11-update.apk"
-        version="1.0.11"
-        os="android"
-        length="12345678"
+        sparkle:version="1.0.11"
+        sparkle:shortVersionString="1.0.11"
         type="application/vnd.android.package-archive" />
     </item>
   </channel>
